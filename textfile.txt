@@ -1,0 +1,29 @@
+.
+|____.git
+| |____branches
+| |____config
+| |____description
+| |____HEAD
+| |____hooks
+| | |____applypatch-msg.sample
+| | |____commit-msg.sample
+| | |____post-update.sample
+| | |____pre-applypatch.sample
+| | |____pre-commit.sample
+| | |____pre-push.sample
+| | |____pre-rebase.sample
+| | |____prepare-commit-msg.sample
+| | |____update.sample
+| |____index
+| |____info
+| | |____exclude
+| |____objects
+| | |____da
+| | | |____f2af841f52849df5682ba6d153edff6a879375
+| | |____info
+| | |____pack
+| |____refs
+| | |____heads
+| | |____tags
+|____test.txt
+|____textfile.txt
